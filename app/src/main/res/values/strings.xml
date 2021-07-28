@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">WeatherBroadcast</string>
+    <string name="permission_request">天气预报APP需要定位权限，以便于自动获取当前地区的天气信息。若您选择不授予权限，您也可使用本APP，但您必须手动选择当前位置。</string>
+    <string name="accept">接受</string>
+    <string name="decline">拒绝</string>
+    <string name="permission_decline_inform">您拒绝授予定位权限，请手动选择地区</string>
 </resources>
